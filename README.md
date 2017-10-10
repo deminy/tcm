@@ -2,10 +2,10 @@
 
 BC省中医方面有四种牌照：
 
-* 注册针灸师（3年专业课程）
-* 注册中药师（3年专业课程）
-* 注册中医师（4年专业课程）
-* 高级中医师（5年专业课程）
+* 注册针灸师（3年专业课程, Registered Acupuncturist (R.Ac.)）
+* 注册中药师（3年专业课程, Registered Traditional Chinese Medicine Herbalist (R.TCM.H.)）
+* 注册中医师（4年专业课程, Registered Traditional Chinese Medicine Practitioner (R.TCM.P.)）
+* 高级中医师（5年专业课程, Doctor of Traditional Chinese Medicine (Dr.TCM)）
 
 每个牌照的学历要求是两年大学课程+括号里面的专业课程，比如没有任何学历的人要成为注册针灸师，那么必须要先学习五年的时间（两年任意大学课程+3年专业课程）；不过对于大多数大学毕业生，由于已经学了两年大学课程，所以只需要学习三年专业课程。
 
