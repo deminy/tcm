@@ -44,3 +44,4 @@ BC省中医方面有四种牌照：
 * 试题资源
     * [剖析美国针灸师执照考试（一）](http://www.chinadmd.com/search.do?nkey=%E5%89%96%E6%9E%90%E7%BE%8E%E5%9B%BD%E9%92%88%E7%81%B8%E5%B8%88%E6%89%A7%E7%85%A7%E8%80%83%E8%AF%95%EF%BC%88%E4%B8%80%EF%BC%89)
     * [解析NCCAOM美国针灸师考试试题](http://mall.cnki.net/magazine/article/ZYHS200704038.htm)
+    * [nccaom试题](http://www.wendangwang.com/search/nccaom%CA%D4%CC%E2)
