@@ -21,7 +21,7 @@ BC省中医方面有四种牌照：
 
 * 政府网站
     * [BC省中医针灸管理局 （中文版官方网站）](http://www.ctcma.bc.ca/ctcma_chn_simplified/) （[英文版官方网站](http://www.ctcma.bc.ca)）
-        * [高級中醫師考試考生手冊](http://www.ctcma.bc.ca/media/1322/2017_drtcm_examination_candidate_handbook.pdf) (英文版Dr.TCM Examination Candidate Handbook)
+        * [高級中醫師考試考生手冊](http://www.ctcma.bc.ca/media/1322/2017_drtcm_examination_candidate_handbook.pdf) (英文版 (Dr.TCM Examination Candidate Handbook))
         * [College of TCM Practitioners and Acupuncturists of British Columbia Bylaws](http://www.ctcma.bc.ca/media/1296/2016-11-27-ctcma-bylaw.pdf)
     * [Traditional Chinese Medicine and Acupuncture](http://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/professional-regulation/traditional-chinese-medicine-and-acupuncture)
 * [ATCMA 卑诗省中医针灸师公会](http://atcma.org/zh-hans/) (中文网站)：会员委员会主席为王瑞宁。
