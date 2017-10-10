@@ -13,13 +13,6 @@ BC省中医方面有四种牌照：
 
 在满足以上学历要求的基础之上，才能参加每年一次的专业资格考试，通常在下半年进行。
 
-# 有待进一步了解的问题
-
-* 海外相关学历能否转换成为相关的专业课程以及如何转换。
-* 试题资源
-    * [剖析美国针灸师执照考试（一）](http://www.chinadmd.com/search.do?nkey=%E5%89%96%E6%9E%90%E7%BE%8E%E5%9B%BD%E9%92%88%E7%81%B8%E5%B8%88%E6%89%A7%E7%85%A7%E8%80%83%E8%AF%95%EF%BC%88%E4%B8%80%EF%BC%89)
-    * [解析NCCAOM美国针灸师考试试题](http://mall.cnki.net/magazine/article/ZYHS200704038.htm)
-
 # 参考资料
 
 * 政府网站
@@ -44,3 +37,10 @@ BC省中医方面有四种牌照：
         * [在美国考中医行医执照](https://tieba.baidu.com/p/1474755003) 
         * [美国中医考试技巧分享：仅四个月即通过三门考试](http://nccaom.hongjingedu.com/zixun/2017/0210/660.html)
         * [美国行医笔录](http://www.acupuncturepeople.com/subpage/usanotes/how-to-get-license.htm)
+
+# 有待进一步了解的问题
+
+* 海外相关学历能否转换成为相关的专业课程以及如何转换。
+* 试题资源
+    * [剖析美国针灸师执照考试（一）](http://www.chinadmd.com/search.do?nkey=%E5%89%96%E6%9E%90%E7%BE%8E%E5%9B%BD%E9%92%88%E7%81%B8%E5%B8%88%E6%89%A7%E7%85%A7%E8%80%83%E8%AF%95%EF%BC%88%E4%B8%80%EF%BC%89)
+    * [解析NCCAOM美国针灸师考试试题](http://mall.cnki.net/magazine/article/ZYHS200704038.htm)
