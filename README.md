@@ -1,3 +1,4 @@
+[TOC]
 # BC省中医资质综述
 
 BC省中医方面有四种牌照：
@@ -15,6 +16,8 @@ BC省中医方面有四种牌照：
 
 # 参考资料
 
+## BC省
+
 * 政府网站
     * [BC省中医针灸管理局 （中文版官方网站）](http://www.ctcma.bc.ca/ctcma_chn_simplified/) （[英文版官方网站](http://www.ctcma.bc.ca)）
         * [高級中醫師考試考生手冊](http://www.ctcma.bc.ca/media/1322/2017_drtcm_examination_candidate_handbook.pdf) (英文版 (Dr.TCM Examination Candidate Handbook))
@@ -27,16 +30,22 @@ BC省中医方面有四种牌照：
     * [温哥华国际中医学院 文凭课程介绍](http://www.tcmcollege.com/wp-content/uploads/2017/01/20170112-Program-Information-Sheet-Bluesheet-515X-detail.pdf) （英文版本）
 * 网络资源汇总
     * [加拿大中医针灸从业要求及政策(BC省温哥华市）](https://www.ourdream.ca/forums/thread-125349-1-1.html)
-* 美国针灸师执医考试（NCCAOM）汇总
-    * [美国中医执照考试大纲简介](http://www.tjzhongyiyao.com/tjzyydxxb/ch/reader/create_pdf.aspx?file_no=20110221) (《天津中医药大学学报》文章)
-    * [美国中医考试简介](http://pan.baidu.com/s/1slM9VMt) (《中国中医药信息杂志》文章)
-    * [解析NCCAOM美国针灸师考试试题](https://wenku.baidu.com/view/3806862ced630b1c59eeb5ea) (辽宁省教育厅科学基金资助项目)
-    * [美国针灸师执照考试制度](https://www.douban.com/note/274383850/)
-    * 经验分享
-        * [关于针灸考试NCCAOM的总结整理](http://www.dxy.cn/bbs/topic/22162876)
-        * [在美国考中医行医执照](https://tieba.baidu.com/p/1474755003) 
-        * [美国中医考试技巧分享：仅四个月即通过三门考试](http://nccaom.hongjingedu.com/zixun/2017/0210/660.html)
-        * [美国行医笔录](http://www.acupuncturepeople.com/subpage/usanotes/how-to-get-license.htm)
+
+## 安大略省
+
+* [安省中医师及针灸师管理局](https://www.ctcmpao.on.ca) (英文网站)
+
+## 美国针灸师执医考试（NCCAOM）汇总
+
+* [美国中医执照考试大纲简介](http://www.tjzhongyiyao.com/tjzyydxxb/ch/reader/create_pdf.aspx?file_no=20110221) (《天津中医药大学学报》文章)
+* [美国中医考试简介](http://pan.baidu.com/s/1slM9VMt) (《中国中医药信息杂志》文章)
+* [解析NCCAOM美国针灸师考试试题](https://wenku.baidu.com/view/3806862ced630b1c59eeb5ea) (辽宁省教育厅科学基金资助项目)
+* [美国针灸师执照考试制度](https://www.douban.com/note/274383850/)
+* 经验分享
+    * [关于针灸考试NCCAOM的总结整理](http://www.dxy.cn/bbs/topic/22162876)
+    * [在美国考中医行医执照](https://tieba.baidu.com/p/1474755003) 
+    * [美国中医考试技巧分享：仅四个月即通过三门考试](http://nccaom.hongjingedu.com/zixun/2017/0210/660.html)
+    * [美国行医笔录](http://www.acupuncturepeople.com/subpage/usanotes/how-to-get-license.htm)
 
 # 有待进一步了解的问题
 
